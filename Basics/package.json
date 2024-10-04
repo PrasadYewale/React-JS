@@ -1,0 +1,27 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "This is React by Prasad",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasadYewale/React-JS.git"
+  },
+  "keywords": [
+    "react",
+    "prasad",
+    "yewale"
+  ],
+  "author": "prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasadYewale/React-JS/issues"
+  },
+  "homepage": "https://github.com/PrasadYewale/React-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
